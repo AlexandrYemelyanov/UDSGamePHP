@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-composer require brizhanev/uds-game-php
+composer require tradesystem/uds-game-php
 ```
 
 ## Usage
