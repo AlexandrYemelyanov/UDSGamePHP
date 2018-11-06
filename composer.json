@@ -1,5 +1,5 @@
 {
-    "name": "brizhanev/uds-game-php",
+    "name": "tradesystem/uds-game-php",
     "version": "1.0.0",
     "type": "library",
     "license": "MIT",
@@ -13,8 +13,8 @@
     },
     "authors": [
         {
-            "name": "Oleg Brizhanev",
-            "email": "mr.brizhanev@yandex.ru"
+            "name": "TradeSystem",
+            "email": "romanenko.a@bk.ru"
         }
     ],
     "require": {},
